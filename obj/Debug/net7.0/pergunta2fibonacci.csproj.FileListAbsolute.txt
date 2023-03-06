@@ -1,0 +1,15 @@
+C:\estagioteste\targetsistemas\pergunta2fibonacci\bin\Debug\net7.0\pergunta2fibonacci.exe
+C:\estagioteste\targetsistemas\pergunta2fibonacci\bin\Debug\net7.0\pergunta2fibonacci.deps.json
+C:\estagioteste\targetsistemas\pergunta2fibonacci\bin\Debug\net7.0\pergunta2fibonacci.runtimeconfig.json
+C:\estagioteste\targetsistemas\pergunta2fibonacci\bin\Debug\net7.0\pergunta2fibonacci.dll
+C:\estagioteste\targetsistemas\pergunta2fibonacci\bin\Debug\net7.0\pergunta2fibonacci.pdb
+C:\estagioteste\targetsistemas\pergunta2fibonacci\obj\Debug\net7.0\pergunta2fibonacci.csproj.AssemblyReference.cache
+C:\estagioteste\targetsistemas\pergunta2fibonacci\obj\Debug\net7.0\pergunta2fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\estagioteste\targetsistemas\pergunta2fibonacci\obj\Debug\net7.0\pergunta2fibonacci.AssemblyInfoInputs.cache
+C:\estagioteste\targetsistemas\pergunta2fibonacci\obj\Debug\net7.0\pergunta2fibonacci.AssemblyInfo.cs
+C:\estagioteste\targetsistemas\pergunta2fibonacci\obj\Debug\net7.0\pergunta2fibonacci.csproj.CoreCompileInputs.cache
+C:\estagioteste\targetsistemas\pergunta2fibonacci\obj\Debug\net7.0\pergunta2fibonacci.dll
+C:\estagioteste\targetsistemas\pergunta2fibonacci\obj\Debug\net7.0\refint\pergunta2fibonacci.dll
+C:\estagioteste\targetsistemas\pergunta2fibonacci\obj\Debug\net7.0\pergunta2fibonacci.pdb
+C:\estagioteste\targetsistemas\pergunta2fibonacci\obj\Debug\net7.0\pergunta2fibonacci.genruntimeconfig.cache
+C:\estagioteste\targetsistemas\pergunta2fibonacci\obj\Debug\net7.0\ref\pergunta2fibonacci.dll
